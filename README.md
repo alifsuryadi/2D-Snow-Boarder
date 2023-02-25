@@ -8,5 +8,5 @@ Project files of Game 2D "Snow Boarder"
 ![Screenshot_20230225_232141](https://user-images.githubusercontent.com/119511703/221367954-5baeb78c-0bd0-4810-8043-3e08edcc1005.png)
 
 #### You can install this game through the link below
-##### ~Just the Windows version is available for now~
 - https://drive.google.com/file/d/1mh_Kyq9iPeVJR2kkPCKvagISLdN83TRu/view?usp=share_link
+##### Just the Windows version is available for now
